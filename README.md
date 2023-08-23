@@ -1,2 +1,2 @@
 # BioPig_Software
-### An app that helps convert an list of pig profiles on Excel to business-related document reports for customers.
+### An app that helps convert a list of pig profiles (body mass, vaccination records, breeding, etc.) on Excel to Word business-related document reports for customers.
